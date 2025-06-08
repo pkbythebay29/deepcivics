@@ -1,0 +1,12 @@
+- dataset_name: "Digital Financial Inclusion Index – Africa"
+  continent: Africa
+  country: South Africa
+  domain: Financial
+  source: "https://databankfiles.worldbank.org/public/ddpext_download/ICT/Series/FS.DSR.DIGS.ZS.csv"
+  language: en
+  columns_of_interest:
+    - Country Name
+    - Time
+    - Value
+  model: multilingual_default
+  truncate_context: 4000

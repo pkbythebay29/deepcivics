@@ -1,0 +1,5 @@
+english_default: deepset/roberta-base-squad2
+multilingual_default: deepset/xlm-roberta-base-squad2
+portuguese: pierreguillou/bert-base-cased-pt-squad
+indian_languages: ai4bharat/indic-qa
+browser_lightweight: Xenova/distilbert-base-uncased-distilled-squad
