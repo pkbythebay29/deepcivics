@@ -2,3 +2,6 @@ pandas
 matplotlib
 transformers
 pyyaml
+torch
+protobuf
+sentencepiece
