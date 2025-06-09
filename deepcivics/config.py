@@ -1,4 +1,5 @@
 # Config loader
+import os
 def load_config(path="deepcivics.yaml"):
     if not os.path.exists(path):
         raise FileNotFoundError(

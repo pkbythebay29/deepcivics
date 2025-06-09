@@ -1,4 +1,5 @@
 # LLM wrapper
+import transformers
 from transformers import pipeline
 from deepcivics.models import get_model_name
 
