@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="deepcivics",
-    version="0.1.0",
+    version="0.1.1",
     author="Pkbythebay29",
     author_email="kannan@haztechrisk.org",
     description="Opensource, LLM powered library to turn public data into civic insight for the Public, Policy makers and Investment professionals.",
@@ -22,5 +22,5 @@ setup(
         "Programming Language :: Python :: 3",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.9',
+    python_requires='>=3.7',
 )
